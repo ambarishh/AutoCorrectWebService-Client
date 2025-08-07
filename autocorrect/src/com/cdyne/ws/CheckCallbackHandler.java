@@ -11,6 +11,8 @@
     /**
      *  CheckCallbackHandler Callback class, Users can extend this class and implement
      *  their own receiveResult and receiveError methods.
+     *  This file was auto-generated from WSDL
+     *  by the Apache Axis2 version: 1.6.2  Built on : Apr 17, 2012 (05:33:49 IST)
      */
     public abstract class CheckCallbackHandler{
 
